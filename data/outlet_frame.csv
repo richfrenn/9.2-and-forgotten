@@ -1,0 +1,98 @@
+outlet,source,status
+AllMusic,Metacritic publication listing (popular p2),in frame
+Almost Cool,Metacritic publication listing (popular p2),in frame
+Amazon.com,Metacritic publication listing (score p0),"excluded: retailer, not a critical outlet"
+American Songwriter,Metacritic publication listing (popular p0),in frame
+Armchair DJ,Metacritic publication listing (score p3),in frame
+Austin Chronicle,"Metacritic publication listing (popular p2, score p3)",in frame
+BBC collective,Metacritic publication listing (popular p0),in frame
+BBC Music,Metacritic publication listing (popular p2),in frame
+Beats Per Minute,Metacritic publication listing (score p0),in frame
+Billboard.com,"Metacritic publication listing (popular p0, score p0)",in frame
+Blender,Metacritic publication listing (score p4),in frame
+Boston Globe,Metacritic publication listing (popular p2),in frame
+CDNow,"Metacritic publication listing (popular p0, score p3)",in frame
+Checkout.com,Metacritic publication listing (popular p2),in frame
+Clash Music,Metacritic publication listing (popular p0),in frame
+Classic Rock Magazine,Metacritic publication listing (popular p2),in frame
+Complex,"Metacritic publication listing (popular p4, score p3)",in frame
+Consequence,"Metacritic publication listing (popular p0, score p3)",in frame
+Country Weekly,"Metacritic publication listing (popular p2, score p0)",in frame
+CultureDose.net,"Metacritic publication listing (popular p2, score p3)",in frame
+Delusions of Adequacy,Metacritic publication listing (score p0),in frame
+DJ Booth,"Metacritic publication listing (popular p0, score p0)",in frame
+Dot Music,Metacritic publication listing (score p3),in frame
+Drawer B,"Metacritic publication listing (popular p0, score p4)",in frame
+Drowned In Sound,Metacritic publication listing (popular p0),in frame
+E! Online,Metacritic publication listing (popular p2),in frame
+Entertainment Weekly,"Metacritic publication listing (popular p2, score p0)",in frame
+Epilogue Music,Metacritic publication listing (popular p2),in frame
+Exclaim,Metacritic publication listing (popular p0),in frame
+Fact Magazine (UK),Metacritic publication listing (score p3),in frame
+Filter,Metacritic publication listing (score p0),in frame
+Flak Magazine,"Metacritic publication listing (popular p2, score p3)",in frame
+Glide Magazine,"Metacritic publication listing (popular p4, score p0)",in frame
+HOB.com,Metacritic publication listing (score p3),in frame
+Hot Press,"Metacritic publication listing (popular p2, score p4)",in frame
+Ink 19,Metacritic publication listing (score p3),in frame
+Ink Blot Magazine,Metacritic publication listing (score p0),in frame
+Junkmedia,Metacritic publication listing (popular p2),in frame
+Kerrang!,Metacritic publication listing (popular p2),in frame
+L.A. Weekly,Metacritic publication listing (popular p0),in frame
+Los Angeles Times,Metacritic publication listing (popular p2),in frame
+Lost At Sea,Metacritic publication listing (score p0),in frame
+Magnet,Metacritic publication listing (popular p0),in frame
+Metal Hammer (UK),"Metacritic publication listing (popular p2, score p0)",in frame
+Mixmag,"Metacritic publication listing (popular p4, score p0)",in frame
+Mojo,Metacritic publication listing (popular p4),in frame
+musicOMH.com,Metacritic publication listing (popular p0),in frame
+Neumu.net,Metacritic publication listing (popular p2),in frame
+No Ripcord,Metacritic publication listing (score p3),in frame
+NOW Magazine,"Metacritic publication listing (popular p0, score p4)",in frame
+Okayplayer,"Metacritic publication listing (popular p2, score p0)",in frame
+Outburn,"Metacritic publication listing (popular p2, score p0)",in frame
+Paste Magazine,"Metacritic publication listing (popular p0, score p0)",in frame
+Pitchfork,Metacritic publication listing (score p3),excluded: Pitchfork (the consecrating institution under study)
+Planet,"Metacritic publication listing (popular p2, score p0)",in frame
+Playlouder,"Metacritic publication listing (popular p4, score p3)",in frame
+PopMatters,"Metacritic publication listing (popular p0, score p3)",in frame
+Prefix Magazine,"Metacritic publication listing (popular p0, score p3)",in frame
+Pretty Much Amazing,Metacritic publication listing (popular p2),in frame
+Q Magazine,"Metacritic publication listing (popular p2, score p3)",in frame
+Resonance,Metacritic publication listing (score p0),in frame
+Revolution,Metacritic publication listing (score p4),in frame
+Rock Sound,Metacritic publication listing (score p0),in frame
+Rolling Stone,"Metacritic publication listing (popular p0, score p4)",in frame
+Salon,Metacritic publication listing (popular p4),in frame
+Select,Metacritic publication listing (score p4),in frame
+Shredding Paper,Metacritic publication listing (score p4),in frame
+Slant Magazine,"Metacritic publication listing (popular p2, score p4)",in frame
+Sonicnet,Metacritic publication listing (score p3),in frame
+Spin,Metacritic publication listing (score p3),in frame
+Spin Cycle,Metacritic publication listing (score p3),in frame
+Sputnikmusic,Metacritic publication listing (popular p0),in frame
+Stylus Magazine,"Metacritic publication listing (popular p0, score p3)",in frame
+The A.V. Club,Metacritic publication listing (popular p4),in frame
+The Boston Phoenix,Metacritic publication listing (popular p2),in frame
+The Fly (UK),Metacritic publication listing (popular p2),in frame
+The Guardian,"Metacritic publication listing (popular p2, score p3)",in frame
+The Independent (UK),Metacritic publication listing (score p3),in frame
+The Line of Best Fit,Metacritic publication listing (score p0),in frame
+The New York Times,Metacritic publication listing (score p3),in frame
+The Observer (UK),"Metacritic publication listing (popular p0, score p3)",in frame
+The Quietus,"Metacritic publication listing (popular p0, score p0)",in frame
+The Skinny,Metacritic publication listing (popular p4),in frame
+The Telegraph (UK),Metacritic publication listing (score p0),in frame
+The Wire,Metacritic publication listing (popular p0),in frame
+Tiny Mix Tapes,"Metacritic publication listing (popular p0, score p3)",in frame
+Trouser Press,"Metacritic publication listing (popular p4, score p3)",in frame
+Under The Radar,"Metacritic publication listing (popular p0, score p3)",in frame
+Variety,"Metacritic publication listing (popular p4, score p0)",in frame
+Vibe,"Metacritic publication listing (popular p0, score p3)",in frame
+Village Voice,"Metacritic publication listing (popular p4, score p3)",in frame
+Wall of Sound,Metacritic publication listing (popular p2),in frame
+XLR8r,"Metacritic publication listing (popular p0, score p0)",in frame
+XXL,Metacritic publication listing (popular p0),in frame
+NME,Added: Metacritic-tracked outlet on a listing page that could not be retrieved,in frame
+Uncut,Added: Metacritic-tracked outlet on a listing page that could not be retrieved,in frame
+Stereogum,Added: Metacritic-tracked outlet on a listing page that could not be retrieved,in frame
